@@ -29,8 +29,7 @@ https://zozotv.xyz:443/amirul2448/abc12345/45
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://mastertv.tech/logo/lokal/rcti.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",RCTI HD
-https://master-premium.my.id/live/Vip1234ya/Asd1234/58.ts
-#https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/lokal/sctv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="SCTV.id", SCTV AUTO 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
