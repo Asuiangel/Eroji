@@ -144,8 +144,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="" tvg-logo="https://Hometvplus.pro/LOGO/kompas.png",KOMPAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/inews.png" group-title=" ꧁LOKAL 1🇮🇩┊SD & HD꧂",INEWS
-https://1s1.rctiplus.id/inews2023.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTINF:-1 group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mastertv.tech/logo/lokal/inews.png", INEWS 
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/net.png" group-title=" ꧁LOKAL 1🇮🇩┊SD & HD꧂",NET TV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
