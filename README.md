@@ -171,6 +171,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1 tvg-logo="https://mastfkertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", BATAM TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mastertv.tech/logo/lokal/btv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",TV KESEHATAN 
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mastfkertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", mentari 
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", NUSANTARA
