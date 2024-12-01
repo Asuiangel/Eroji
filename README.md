@@ -18,7 +18,9 @@ http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/162138.ts
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/indosiar.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", INDOSIAR HD
-https://zozotv.xyz:443/amirul2448/abc12345/45
+
+https://master-premium.my.id/live/mtv-new-new1/R20november2024/57.ts
+#https://zozotv.xyz:443/amirul2448/abc12345/45
 
 #http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
