@@ -1,5 +1,7 @@
+==========================================================
+//copy right by,@master menampilkan playlist >>> LOKAL ID Auto
+//==============================
 
-audio/x-mpegurl masroji.m3u ( UTF-8 Unicode text, with very long lines )
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mastertv.tech/logo/lokal/indosiar.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", INDOSIAR 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -7,22 +9,21 @@ audio/x-mpegurl masroji.m3u ( UTF-8 Unicode text, with very long lines )
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/162138.ts
+
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+#http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/162138.ts
 
 
 #EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://mastertv.tech/logo/lokal/indosiar.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",INDOSIAR AUTO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/indosiar.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", INDOSIAR HD
-
-https://master-premium.my.id/live/mtv-new-new1/R20november2024/57.ts
 #https://zozotv.xyz:443/amirul2448/abc12345/45
 
-#http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mastertv.tech/logo/lokal/rcti.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",RCTI AUTO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -31,6 +32,7 @@ https://master-premium.my.id/live/mtv-new-new1/R20november2024/57.ts
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://mastertv.tech/logo/lokal/rcti.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",RCTI HD
+#http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/157591.ts
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:0 tvg-logo="https://mastertv.tech/logo/lokal/sctv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="SCTV.id", SCTV AUTO 
@@ -78,9 +80,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/moji.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",MOJI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
+https://zozotv.xyz:443/amirul2448/abc12345/475
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mastertv.tech/logo/lokal/gtv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", GTV AUTO
@@ -146,15 +146,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="" tvg-logo="https://Hometvplus.pro/LOGO/kompas.png",KOMPAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 
+#EXTINF:-1 tvg-logo="" group-title=" ",INEWS
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:-1 group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mastertv.tech/logo/lokal/inews.png", INEWS 
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/lokal/net.png" group-title=" ꧁LOKAL 1🇮🇩┊SD & HD꧂",NET TV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://nonton.site:8088//DZqjznfyyn/3Q9O2vucT6/24
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -174,20 +176,13 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mastertv.tech/logo/lokal/btv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 tvg-logo="https://mastfkertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", BATAM TV
-https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mastertv.tech/logo/lokal/btv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",TV KESEHATAN 
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mastfkertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", mentari 
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/daerah/nusantara.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", NUSANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://mastertv.tech/logo/daerah/garudatv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂",GARUDA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mastertv.tech/logo/lokal/vtv.png" group-title="꧁LOKAL 1🇮🇩┊SD & HD꧂", VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
