@@ -1,4 +1,4 @@
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+0#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
@@ -620,6 +620,44 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" tvg-name="UFA Channel" group-title="TV🕌MUSLIM",LIVE DZIKIR PAGI SIANG SORE MALAM
+https://sonar.ytlive.workers.dev/video/gyyvnEwMqjk/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" tvg-name="Dzikir Pagi" group-title="TV🕌MUSLIM  ",DZIKIR PAGI
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" tvg-name="Dzikir Petang" group-title="TV🕌MUSLIM  ", DZIKIR SORE/PETANG 
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png"TV🕌MUSLIM" tvg-name="Dzikir Sebelum Tidur" group-title="TV🕌MUSLIM  ", DZIKIR SEBELUM TIDUR
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM", Murottal 30 ZUS
+https://sonar.ytlive.workers.dev/video/TAqlX6RH-Y4/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" tvg-name="Sharjah Radio Quran (24/7 Live Youtube)" group-title="TV🕌MUSLIM", AL-QUR'AN 1
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM", QUR'AN 2
+http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM",  QUR'AN 3
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM",  QUR'AN 4
+http://extraott.com/3969424152/3723991250/39735
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM",  QUR'AN 5
+http://extraott.com/3969424152/3723991250/39735
+
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM",  QUR'AN 6
+http://extraott.com/3969424152/3723991250/49220
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM",  QUR'AN 7
+http://extraott.com/3969424152/3723991250/360857
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/event/livestreaming.png" group-title="CINTA NABI", SHALAWAT NABI
+
+
+#EXTINF:-1 tvg-logo="https://tvmaster.my.id/Muslim_TV%20%281%29.png" group-title="TV🕌MUSLIM", SHALAWAT NABI 1
+
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/event/livestreaming.png" group-title="TV🕌MUSLIM", SHALAWAT NABI 2
 
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
