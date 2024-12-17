@@ -1,6 +1,6 @@
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT BRI
-https://lebo.huminbird.cn/live/ballbar_16240.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 1
+https://lebo.huminbird.cn/live/ballbar_35660.m3u8
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 2 TANGGERANG 
 #https://lebo.huminbird.cn/live/ballbar_34550.m3u8
