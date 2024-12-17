@@ -5,7 +5,8 @@ https://lebo.huminbird.cn/live/ballbar_35660.m3u8
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 2
 https://lebo.huminbird.cn/live/ballbar_35700.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 3
+https://qsv2.dbcast.live/g-5vb2HnkNPrbV7mBigHpw/1734427305/36322e3231322e36342e3136/ff439/playlist.m3u8
 
 0#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
