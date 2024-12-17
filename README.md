@@ -1,9 +1,10 @@
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 1
-https://lebo.huminbird.cn/live/ballbar_35660.m3u8
+https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-plexus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 2
-https://lebo.huminbird.cn/live/ballbar_35700.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT 3
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
