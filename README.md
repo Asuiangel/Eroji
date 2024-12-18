@@ -588,6 +588,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 <================ Knowledge & Documentary ==========================>
 
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Discovery Science"  tvg-logo="https://mastertv.tech/logo/hoby/discoveryscience.png", DISCOVERY SCIENCE
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/95
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Discovery Turbo"  tvg-logo="https://mastertv.tech/logo/hoby/discoveryturbo.png",DISCOVERY TURBO
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -613,13 +620,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery Science
-https://github.com/hendroagung2904/SourcePlaylist/raw/refs/heads/main/DiscoveryScience.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Knowledge & Documentary",Discovery Turbo
-https://github.com/hendroagung2904/SourcePlaylist/raw/refs/heads/main/DiscoveryTurboEnglish.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
