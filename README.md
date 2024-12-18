@@ -16,12 +16,12 @@ https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT Sleman 
-https://lebo.huminbird.cn/live/ballbar_31700.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT BARETO VS BANDUNG 
+https://lebo.huminbird.cn/live/ballbar_28670.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT SINGAPURA VS THAILAND 
-https://lebo.huminbird.cn/live/ballbar_24380.m3u8
+#https://lebo.huminbird.cn/live/ballbar_24380.m3u8
 
 0#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
