@@ -1,4 +1,7 @@
 
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY 24
+https://master-premium.my.id/live/mtv-new-new1/R20november2024/296.ts
+
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 https://plexaaaaa-racingamerica-plex-aistu.amagi.tv/playlist/plexAAAAA-racingamerica-plex/playlist.m3u8
@@ -16,11 +19,7 @@ https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT BARETO VS BANDUNG 
-https://lebo.huminbird.cn/live/ballbar_28670.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT SINGAPURA VS THAILAND 
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY
 #https://lebo.huminbird.cn/live/ballbar_24380.m3u8
 
 0#EXTVLCOPT:http-referrer=https://www.visionplus.id/
