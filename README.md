@@ -1,11 +1,11 @@
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY korea 1
-https://lebo.huminbird.cn/live/ballbar_26300.m3u8
+https://jklmnopqrstuvwyxz.online/live/ballbar_26240.m3u8?hayo_mau_ngapain_loh
 
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY korea 2
-https://lebo.huminbird.cn/live/ballbar_27250.m3u8
+https://jklmnopqrstuvwyxz.online/live/ballbar_26060.m3u8?hayo_mau_ngapain_loh
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
