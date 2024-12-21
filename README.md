@@ -4,8 +4,9 @@
 http://103.178.153.45/live/CD0151BD88DD549FD51626A1DDADC4FA/52.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY korea 2
-https://jklmnopqrstuvwyxz.online/live/ballbar_26060.m3u8?hayo_mau_ngapain_loh
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  TIMNAS 2
+https://tvpull.careryun.com/live/ballbar_34020.m3u8?mau_maling_ya_babilah_kau
+
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
