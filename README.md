@@ -1,7 +1,7 @@
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY korea 1
-https://jklmnopqrstuvwyxz.online/live/ballbar_26240.m3u8?hayo_mau_ngapain_loh
-
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE TIMNAS 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XYFZTZXGMT) ExoPlayerLib/2.15.1
+http://103.178.153.45/live/CD0151BD88DD549FD51626A1DDADC4FA/52.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY korea 2
