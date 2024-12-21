@@ -1,7 +1,7 @@
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE TIMNAS 
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XYFZTZXGMT) ExoPlayerLib/2.15.1
-http://103.178.153.45/live/CD0151BD88DD549FD51626A1DDADC4FA/52.m3u8
+OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
+https://outstream.rctiplus.id/rplus/inavsfilipina/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  TIMNAS 2
