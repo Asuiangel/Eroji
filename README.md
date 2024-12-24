@@ -1,11 +1,10 @@
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE INDOSIAR 
-OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
-http://103.178.153.45/live/536D7B6E24983FA1642B6AFA310EF1A7/1.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE KOREA 1 
+https://tvpull.careryun.com/live/ballbar_22260.m3u8?mau_maling_ya_babilah_kau
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  TIMNAS 2
-https://tvpull.careryun.com/live/ballbar_34020.m3u8?mau_maling_ya_babilah_kau
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  korea 2
+https://tvpull.careryun.com/live/ballbar_22210.m3u8?mau_maling_ya_babilah_kau
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
