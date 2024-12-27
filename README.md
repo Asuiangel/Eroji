@@ -3,9 +3,12 @@
 https://tvpull.careryun.com/live/ballbar_27860.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  korea 2
-https://tvpull.careryun.com/live/ballbar_29550.m3u8?mau_maling_ya_babilah_kau
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  korea 1
+https://tvpull.careryun.com/live/ballbar_27140.m3u8?mau_maling_ya_babilah_kau
 
+
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  korea 2
+https://tvpull.careryun.com/live/ballbar_26980.m3u8?mau_maling_ya_babilah_kau
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
