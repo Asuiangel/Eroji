@@ -1,14 +1,14 @@
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VNL KOREA
-https://tvpull.careryun.com/live/ballbar_30010.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE 1
+https://tvpull.careryun.com/live/ballbar_14830.m3u8?mau_maling_ya_babilah_kau
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  KOREA 2
-https://tvpull.careryun.com/live/ballbar_36320.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE 2
+https://tvpull.careryun.com/live/ballbar_11060.m3u8?mau_maling_ya_babilah_kau
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  korea 2
-https://tvpull.careryun.com/live/ballbar_26980.m3u8?mau_maling_ya_babilah_kau
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  3
+https://tvpull.careryun.com/live/ballbar_11940.m3u8?mau_maling_ya_babilah_kau
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
