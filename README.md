@@ -8,7 +8,7 @@ https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/312.ts
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  3
-https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/309.ts
+https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/311.ts
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
@@ -27,8 +27,8 @@ https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE VOLY
-#https://lebo.huminbird.cn/live/ballbar_24380.m3u8
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  
+https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/60.ts
 
 0#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
