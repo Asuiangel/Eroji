@@ -1,3 +1,7 @@
+
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", VOLLY KOREAN
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/lygotanmujljodqkzgncywnjbj8y52bux3ca/hdntl=exp=1736275990~acl=*%2flygotanmujljodqkzgncywnjbj8y52bux3ca%2f*~data=hdntl~hmac=3b5e35fe123252ba8f61f0b149eaff3adc0672fe709ad28c65ca4c1f77600674/chunklist_1080.stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",VOLI KOREA
 https://tvpull.careryun.com/live/ballbar_30940.m3u8?mau_maling_ya_babilah_kau
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON
