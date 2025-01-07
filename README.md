@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",VOLI KOREA
+https://tvpull.careryun.com/live/ballbar_30940.m3u8?mau_maling_ya_babilah_kau
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON
 http://play-gachor.online/v2mig/4x4CjQ7Rgs/6207
 
