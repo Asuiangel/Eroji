@@ -16,8 +16,8 @@ https://tvpull.careryun.com/live/ballbar_39450.m3u8?mau_maling_ya_babilah_kau
 
 #https://series.atv.my.id/free-245/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON 3
-https://tvpull.careryun.com/live/ballbar_37290.m3u8?mau_maling_ya_babilah_kau
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", LIGA BRI
+https://tvpull.careryun.com/live/ballbar_35130.m3u8?mau_maling_ya_babilah_kau
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
