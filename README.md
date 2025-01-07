@@ -7,8 +7,8 @@ http://play-gachor.online/rony@general/XEXfv78gtj/305
 https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/312.ts
 
 
-#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE  3
-https://master-premium.my.id/live/11B3018FF075BAC5FEC47829D279C8DB/311.ts
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE BADMINTON 
+https://tvpull.careryun.com/live/ballbar_37590.m3u8?mau_maling_ya_babilah_kau
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
