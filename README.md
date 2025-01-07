@@ -1557,28 +1557,18 @@ https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
 #EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png" group-title="Christian Channels",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-<================================================= Mediacorp Singapore ======================================>
-
-==========================================================
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://play-gachor.my.id/logo/htv2/singapore/ch5.png",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=573088ef40ec443a8c15d6fa0f423d43:47768cef0eec505008eda42c036b093b
-https://tglmp02.akamaized.net/out/v1/113b04e639a64217b7cfb1352f7aef1e/manifest.mpd
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://play-gachor.my.id/logo/htv2/singapore/ch8.png",Channel 8 / 8 频道
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://play-gachor.my.id/logo/htv2/singapore/chu.png",Channel U / U 频道
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+<================================================= Mediacorp Singapore =
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="Mediacorp 
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://play-gachor.my.id/logo/htv2/singapore/ch8.png",Channel 8 / 8 频道
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
