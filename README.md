@@ -18,7 +18,7 @@ http://194.233.81.30:3000/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #https://series.atv.my.id/free-245/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON 3
-
+https://tvpull.careryun.com/live/ballbar_34190.m3u8
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
