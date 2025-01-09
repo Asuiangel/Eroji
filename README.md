@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON
-
+https://tvpull.careryun.com/live/ballbar_36450.m3u8
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
