@@ -2,14 +2,14 @@
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON
-https://tvpull.careryun.com/live/ballbar_36450.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41da095819c74b30aa94daf2b83ce379:6417c265eeff537dba1bc5418f007ad2
-http://194.233.81.30:3000/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+#http://194.233.81.30:3000/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",BADMINTON 2
@@ -18,15 +18,15 @@ http://194.233.81.30:3000/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #https://series.atv.my.id/free-245/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂", BADMINTON 3
-https://tvpull.careryun.com/live/ballbar_34190.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT RACING 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-https://plexaaaaa-racingamerica-plex-aistu.amagi.tv/playlist/plexAAAAA-racingamerica-plex/playlist.m3u8
+#https://plexaaaaa-racingamerica-plex-aistu.amagi.tv/playlist/plexAAAAA-racingamerica-plex/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mastertv.tech/logo/livetv1/liveevent/live.png" group-title="꧁☆LIVE EVENT☆꧂",LIVE EVENT MADURAN VS BALI 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+
 
 
 
