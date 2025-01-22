@@ -31,6 +31,11 @@ http://103.178.153.45/live/42AE3BEB79C56924BB3FB477777A9F40/1.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
+#EXTINF:-1 tvg-id="SChampion TV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" group-title="Indonesia Channels",SCTV 1
+http://play-gachor.online/rony@general/XEXfv78gtj/6
+
+
+
 #EXTINF:-1 tvg-id="SChampion TV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
